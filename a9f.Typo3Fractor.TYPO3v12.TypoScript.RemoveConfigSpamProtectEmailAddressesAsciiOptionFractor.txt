@@ -1,0 +1,1 @@
+Remove config.spamProtectEmailAddresses with option ascii

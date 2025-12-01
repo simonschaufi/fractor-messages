@@ -1,0 +1,1 @@
+Use config array in TSFE instead of deprecated class properties

@@ -1,0 +1,1 @@
+Remove TSConfig options.workspaces.swapMode and options.workspaces.changeStageMode

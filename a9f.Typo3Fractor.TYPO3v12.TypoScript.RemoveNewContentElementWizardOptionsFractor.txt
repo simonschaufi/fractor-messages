@@ -1,0 +1,1 @@
+Remove TSConfig mod.web_layout.disableNewContentElementWizard and mod.newContentElementWizard.override

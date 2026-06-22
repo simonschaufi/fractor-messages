@@ -1,0 +1,1 @@
+Remove config.sys_language_mode

@@ -1,0 +1,1 @@
+Remove mod.web_list.alternateBgColors
